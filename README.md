@@ -2,6 +2,8 @@
 
 <h2  align="center" >Passionate Frontend Developer</h2>
 
+<h2 style="text-align:center">Passionate Frontend Developer</h2>
+
 <h3><b>Stack of technologies:&nbsp;</b></h3>
 
 <p>💥 React Js&nbsp;</p>
@@ -29,29 +31,32 @@
 	<li>Headless CMS SANITY handles backend</li>
 </ul>
 
+<p>&nbsp;</p>
+
 <hr>
 <p>&nbsp;</p>
 
-<p dir="auto"><b>Food order App&nbsp;in React JS</b></p>
+<p><a href="https://orlovskyden.github.io/react-food-order-app/"><img alt="Orlovsky Denis Sushi House" src="https://www.web-lab.pp.ua/Sushi-house_portf.jpg" style="float:right; height:142px; margin:10px; width:300px"></a><b>Food order App&nbsp;in React JS</b><br>
+	<a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/react-food-order-app" target="_blank">GitHub</a></p>
 
 <ul dir="auto">
-	<li>Reusable functional React components, React-hooks (useState, useEffect, useReducer, useContext).</li>
-	<li>Add to cart products, customize quantity.</li>
+	<li>Reusable functional React components, React-hooks (useState, useEffect, useReducer, useContext);</li>
+	<li>Cart functionality: add products, customize quantity;</li>
 	<li>Responsive layout, CSS effects and animations.</li>
 </ul>
 
+<p>&nbsp;</p>
 
-<!--
-**orlovskyden/orlovskyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<p>&nbsp;</p>
 
-Here are some ideas to get you started:
+<p><img alt="Orlovsky Denis Sushi House" src="https://www.web-lab.pp.ua/gpt-3_portf.jpg" style="float:right; height:206px; margin:10px; width:300px"><b>Fully responsive layout UI/UX website in React JS</b><br>
+	<a href="https://orlovskyden.github.io/react-gpt3-responsive-wibsite/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/react-gpt3-responsive-wibsite" target="_blank">GitHub</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+	<li>Reusable functional React components,</li>
+	<li>responsive layout,</li>
+	<li>mobile menu,</li>
+	<li>CSS effects and animations,</li>
+	<li>gradients.</li>
+</ul>

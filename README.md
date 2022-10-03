@@ -20,15 +20,24 @@
 
 <h2><b>Latest works:</b></h2>
 
-<p><a href="https://orlovskyden.netlify.app/" target="_blank"><img alt="Orlovsky Denis Portfolio" src="https://www.web-lab.pp.ua/portfolio_website.jpg" style="float:right; height:163px; margin:10px; width:300px"  align="right"></a></p>
-
-<p>My creative portfolio website on React:&nbsp;<br>
+<p><img alt="Orlovsky Denis Portfolio" src="https://www.web-lab.pp.ua/portfolio_website.jpg" style="float:right; height:163px; margin:10px; width:300px"><b>My creative portfolio website on React:&nbsp;</b><br>
 	<a href="https://orlovskyden.netlify.app/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/portfolio" target="_blank">GitHub</a></p>
 
 <ul>
 	<li>React/SCSS</li>
 	<li>Framer Motion library for advanced animations</li>
 	<li>Headless CMS SANITY handles backend</li>
+</ul>
+
+<hr>
+<p>&nbsp;</p>
+
+<p dir="auto"><b>Food order App&nbsp;in React JS</b></p>
+
+<ul dir="auto">
+	<li>Reusable functional React components, React-hooks (useState, useEffect, useReducer, useContext).</li>
+	<li>Add to cart products, customize quantity.</li>
+	<li>Responsive layout, CSS effects and animations.</li>
 </ul>
 
 

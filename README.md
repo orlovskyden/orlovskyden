@@ -1,11 +1,11 @@
 <h1 align="center" dir="auto">Hi, I'm Denis  <a target="_blank" rel="noopener noreferrer" href="https://github.com/orlovskyden/"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" data-animated-image="" style="max-width: 100%;"></a></h1>
 
-<h2 style="text-align:center">Passionate Frontend Developer</h2>
+<h2  align="center" >Passionate Frontend Developer</h2>
 
 <h3><b>Stack of technologies:&nbsp;</b></h3>
 
 <ul>
-	<li>React Js&nbsp;</li>
+	<li>⚙ React Js&nbsp;</li>
 	<li>JavaScript</li>
 	<li>SCSS/SASS</li>
 	<li>CMS: SANITY,&nbsp;Joomla,&nbsp;Wordpress</li>

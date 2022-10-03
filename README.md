@@ -8,7 +8,7 @@
 	💥 JavaScript<br>
 	💥 SCSS/SASS<br>
 	💥 CMS: SANITY,&nbsp;Joomla,&nbsp;Wordpress<br>
-	💥 Responsive, adaptive layout<br>
+	💥 Mobile friendly, responsive layout<br>
 	💥 Advanced animations and animation libraries</p>
 
 <p>&nbsp;</p>

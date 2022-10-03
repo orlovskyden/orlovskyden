@@ -17,16 +17,15 @@
 
 <h3><b>Latest works:</b></h3>
 
-<p><a href="https://orlovskyden.netlify.app/" target="_blank"><img alt="Orlovsky Denis Portfolio" src="https://www.web-lab.pp.ua/portfolio_website.jpg" style="float:right; height:325px; margin:10px; width:600px"></a></p>
+<p><a href="https://orlovskyden.netlify.app/" target="_blank"><img alt="Orlovsky Denis Portfolio" src="https://www.web-lab.pp.ua/portfolio_website.jpg" style="float:right; height:163px; margin:10px; width:300px"></a></p>
 
-<p><span style="font-size:large">My creative portfolio website on React:&nbsp;<a href="https://orlovskyden.netlify.app/" target="_blank">Live site</a></span></p>
+<p>My creative portfolio website on React:&nbsp;<a href="https://orlovskyden.netlify.app/" target="_blank">Live site</a></p>
 
 <ul>
-	<li><span style="font-size:large">React/SCSS</span></li>
-	<li><span style="font-size:large">Framer Motion library for advanced animations</span></li>
-	<li><span style="font-size:large">Headless CMS SANITY handles backend</span></li>
+	<li>React/SCSS</li>
+	<li>Framer Motion library for advanced animations</li>
+	<li>Headless CMS SANITY handles backend</li>
 </ul>
-
 
 <!--
 **orlovskyden/orlovskyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

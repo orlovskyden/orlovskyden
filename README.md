@@ -12,7 +12,7 @@
 	💥 Advanced animations and animation libraries</p>
 	<p>&nbsp;</p>
 
-<h3>My resume: <a href="https://servis24.top/resume.pdf" target="_blank">Open PDF here</a></h3>
+<h3>My resume:</h3> <a href="https://servis24.top/resume.pdf" target="_blank">Open PDF here</a>
 
 <p>&nbsp;</p>
 

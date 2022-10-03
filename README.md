@@ -4,17 +4,12 @@
 
 <h3><b>Stack of technologies:&nbsp;</b></h3>
 
-<p>💥 React Js&nbsp;</p>
-
-<p>💥 JavaScript</p>
-
-<p>💥 SCSS/SASS</p>
-
-<p>💥 CMS: SANITY,&nbsp;Joomla,&nbsp;Wordpress</p>
-
-<p>💥 Responsive, adaptive layout</p>
-
-<p>💥 Advanced animations and animation libraries</p>
+<p>💥 React Js&nbsp;<br>
+	💥 JavaScript<br>
+	💥 SCSS/SASS<br>
+	💥 CMS: SANITY,&nbsp;Joomla,&nbsp;Wordpress<br>
+	💥 Responsive, adaptive layout<br>
+	💥 Advanced animations and animation libraries</p>
 
 <p>&nbsp;</p>
 
@@ -32,7 +27,7 @@
 <p>&nbsp;</p>
 
 <hr>
-<p>&nbsp;</p>
+
 
 <p><a href="https://orlovskyden.github.io/react-food-order-app/"><img  align="right" alt="Orlovsky Denis Sushi House" src="https://www.web-lab.pp.ua/Sushi-house_portf.jpg" style="float:right; height:142px; margin:10px; width:300px"></a><b>Food order App&nbsp;in React JS</b><br>
 	<a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/react-food-order-app" target="_blank">GitHub</a></p>
@@ -46,7 +41,6 @@
 <p>&nbsp;</p>
 
 <hr>
-<p>&nbsp;</p>
 
 <p><img alt="Orlovsky Denis Sushi House" align="right"  src="https://www.web-lab.pp.ua/gpt-3_portf.jpg" style="float:right; height:206px; margin:10px; width:300px"><b>Fully responsive layout UI/UX website in React JS</b><br>
 	<a href="https://orlovskyden.github.io/react-gpt3-responsive-wibsite/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/react-gpt3-responsive-wibsite" target="_blank">GitHub</a></p>

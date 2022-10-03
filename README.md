@@ -10,9 +10,6 @@
 	💥 CMS: SANITY,&nbsp;Joomla,&nbsp;Wordpress<br>
 	💥 Responsive, adaptive layout<br>
 	💥 Advanced animations and animation libraries</p>
-	<p>&nbsp;</p>
-
-<h3>My CV (ru): <a href="https://servis24.top/resume.pdf" target="_blank">Open PDF here</a></h3>
 
 <p>&nbsp;</p>
 

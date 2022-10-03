@@ -15,7 +15,8 @@
 
 <h2><b>Latest works:</b></h2>
 
-<p><img align="right"  alt="Orlovsky Denis Portfolio" src="https://www.web-lab.pp.ua/portfolio_website.jpg" style="float:right; height:163px; margin:10px; width:300px"><b>My creative portfolio website on React:&nbsp;</b><br>
+<p><img align="right"  alt="Orlovsky Denis Portfolio" src="https://www.web-lab.pp.ua/portfolio_website.jpg" style="float:right; height:163px; margin:10px; width:300px"><br>
+	<b>My creative portfolio website on React:&nbsp;</b><br>
 	<a href="https://orlovskyden.netlify.app/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/portfolio" target="_blank">GitHub</a></p>
 
 <ul>
@@ -29,7 +30,8 @@
 <hr>
 
 
-<p><a href="https://orlovskyden.github.io/react-food-order-app/"><img  align="right" alt="Orlovsky Denis Sushi House" src="https://www.web-lab.pp.ua/Sushi-house_portf.jpg" style="float:right; height:142px; margin:10px; width:300px"></a><b>Food order App&nbsp;in React JS</b><br>
+<p><a href="https://orlovskyden.github.io/react-food-order-app/"><img  align="right" alt="Orlovsky Denis Sushi House" src="https://www.web-lab.pp.ua/Sushi-house_portf.jpg" style="float:right; height:142px; margin:10px; width:300px"></a><br>
+	<b>Food order App&nbsp;in React JS</b><br>
 	<a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/react-food-order-app" target="_blank">GitHub</a></p>
 
 <ul dir="auto">
@@ -42,7 +44,8 @@
 
 <hr>
 
-<p><img alt="Orlovsky Denis Sushi House" align="right"  src="https://www.web-lab.pp.ua/gpt-3_portf.jpg" style="float:right; height:206px; margin:10px; width:300px"><b>Fully responsive layout UI/UX website in React JS</b><br>
+<p><a href="https://orlovskyden.github.io/react-gpt3-responsive-wibsite/"><img alt="Orlovsky Denis Sushi House" align="right"  src="https://www.web-lab.pp.ua/gpt-3_portf.jpg" style="float:right; height:206px; margin:10px; width:300px"></a><br>
+	<b>Fully responsive layout UI/UX website in React JS</b><br>
 	<a href="https://orlovskyden.github.io/react-gpt3-responsive-wibsite/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/react-gpt3-responsive-wibsite" target="_blank">GitHub</a></p>
 
 <ul>

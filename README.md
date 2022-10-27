@@ -55,3 +55,16 @@
 	<li>CSS effects and animations,</li>
 	<li>gradients.</li>
 </ul>
+
+<hr>
+
+<p><a href="https://orlovskyden.github.io/cost-calculator/"><img alt="Orlovsky Denis Sushi House" align="right"  src="https://servis24.top/assets/cost-calculator_gh.jpg" style="float:right; height:174px; margin:10px; width:300px"></a><br>
+	<b>Fully responsive layout UI/UX website in React JS</b><br>
+	<a href="https://orlovskyden.github.io/cost-calculator/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/cost-calculator" target="_blank">GitHub</a></p>
+
+<ul>
+	<li>Reusable functional React components, React-hooks (useState, useEffect).</li>
+	<li>Add costs on a specific month and year</li>
+	<li>Application calculates the amount of costs in comparison to another monthes</li>
+	<li>Real-time animated diagram shows the amount of costs according to the remaining months in the selected year</li>
+</ul>

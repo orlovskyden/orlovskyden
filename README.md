@@ -32,7 +32,7 @@
 
 
 <p><a href="https://orlovskyden.github.io/react-food-order-app/"><img  align="right" alt="Orlovsky Denis Sushi House" src="https://www.web-lab.pp.ua/Sushi-house_portf.jpg" style="float:right; height:142px; margin:10px; width:300px"></a><br>
-	<b>Food order App&nbsp;in React JS</b><br>
+	<b>Food order App on React JS</b><br>
 	<a href="https://orlovskyden.github.io/react-food-order-app/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/react-food-order-app" target="_blank">GitHub</a></p>
 
 <ul dir="auto">
@@ -46,7 +46,7 @@
 <hr>
 
 <p><a href="https://orlovskyden.github.io/react-gpt3-responsive-wibsite/"><img alt="Orlovsky Denis Sushi House" align="right"  src="https://www.web-lab.pp.ua/gpt-3_portf.jpg" style="float:right; height:206px; margin:10px; width:300px"></a><br>
-	<b>Fully responsive layout UI/UX website in React JS</b><br>
+	<b>Fully responsive layout UI/UX website on React JS</b><br>
 	<a href="https://orlovskyden.github.io/react-gpt3-responsive-wibsite/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/react-gpt3-responsive-wibsite" target="_blank">GitHub</a></p>
 
 <ul>
@@ -61,8 +61,8 @@
 
 <hr>
 
-<p><a href="https://orlovskyden.github.io/cost-calculator/"><img alt="Orlovsky Denis Sushi House" align="right"  src="https://servis24.top/assets/cost-calculator_gh.jpg" style="float:right; height:174px; margin:10px; width:300px"></a><br>
-	<b>Fully responsive layout UI/UX website in React JS</b><br>
+<p><a href="https://orlovskyden.github.io/cost-calculator/"><img alt="Orlovsky Denis Cost Calculator" align="right"  src="https://servis24.top/assets/cost-calculator_gh.jpg" style="float:right; height:174px; margin:10px; width:300px"></a><br>
+	<b>Cost calculator app on React JS</b><br>
 	<a href="https://orlovskyden.github.io/cost-calculator/" target="_blank">Live site</a>&nbsp; &nbsp;<a href="https://github.com/orlovskyden/cost-calculator" target="_blank">GitHub</a></p>
 
 <ul>

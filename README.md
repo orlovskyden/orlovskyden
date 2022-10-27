@@ -56,6 +56,8 @@
 	<li>gradients.</li>
 </ul>
 
+<p>&nbsp;</p>
+
 <hr>
 
 <p><a href="https://orlovskyden.github.io/cost-calculator/"><img alt="Orlovsky Denis Sushi House" align="right"  src="https://servis24.top/assets/cost-calculator_gh.jpg" style="float:right; height:174px; margin:10px; width:300px"></a><br>

@@ -5,6 +5,7 @@
 <h3><b>Stack of technologies:&nbsp;</b></h3>
 
 <p>💥 React Js&nbsp;<br>
+	💥 Redux / Router<br>
 	💥 JavaScript<br>
 	💥 SCSS/SASS<br>
 	💥 CMS: SANITY,&nbsp;Joomla,&nbsp;Wordpress<br>
